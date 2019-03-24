@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+    border: 1px solid #e1e1e1;
+}
+
+.header-top {
+    display: flex;
+    padding: 20px 0;
+}
+
+.logo {
+    margin-left: 22px;
+}
+
+.header-search {
+    height: 31px;
+    margin-left: 20px;
+}
+
+.header-search__input {
+    font-size: 14px;
+    height: 26px;
+    width: 382px;
+    padding-left: 12px;
+}
+
+.header-search__button {
+    font-size: 14px;
+    height: 32px;
+    width: 70px;
+    /* background-color: #ffffff;
+    border-color: #e1e1e1; */
+    margin-left: -5px;
+}
+
+.header-avatar {
+    margin-left: auto;
+    margin-right: 26px;
+}
+
+.user-avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 100%;
+}
